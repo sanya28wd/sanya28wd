@@ -1,56 +1,143 @@
-# Hi, I'm Sanya Wadhawan 👋
+<p align="center">
+  <img src="./assets/sanya-banner.png" alt="Hi, I'm Sanya Wadhawan — Aspiring AI Engineer" width="100%" />
+</p>
 
-**Computer Science student at BITS Pilani Dubai, pursuing a minor in Data Science, specialising in AI, machine learning, Agentic AI, data science and full-stack development.**
+<h1 align="center">Hey there, I'm Sanya Wadhawan 👋</h1>
 
-I build practical and explainable AI systems, with experience in AI agents, computer vision, generative AI, predictive modelling, and enterprise application development.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate+at+BITS+Pilani%2C+Dubai;Applied+AI+%26+Machine+Learning+Builder;Building+trustworthy+and+useful+AI+systems" alt="Typing SVG" />
+</p>
 
-📍 Dubai, UAE
+<p align="center">
+  <a href="https://github.com/sanya28wd?tab=followers">
+    <img src="https://img.shields.io/github/followers/sanya28wd?label=Followers&style=for-the-badge&color=FF69B4&labelColor=17111A" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/sanya28wd?tab=repositories">
+    <img src="https://img.shields.io/github/stars/sanya28wd?style=for-the-badge&color=EF93C4&labelColor=17111A" alt="GitHub stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sanya28wd&style=for-the-badge&color=F8BBD0&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-## 👩‍💻 Who am I?
+<br />
 
-- 🎓 Computer Science student at **BITS Pilani, Dubai Campus**
-- 📊 Pursuing a minor in **Data Science**
-- 🧠 Interested in **AI/ML, Agentic AI, Generative AI, Computer Vision and Full-Stack Development**
-- 🤖 Exploring autonomous AI workflows, tool-using agents and multi-step reasoning systems
-- 🔍 Passionate about building AI systems that are practical, explainable and reliable
-- 🚀 Open to **AI/ML, Agentic AI, Data Science and Software Engineering opportunities**
+## ✨ About Me
 
-## 🛠️ What tools do I use?
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
-### Languages
+I'm a Computer Science undergraduate at **BITS Pilani, Dubai Campus**, pursuing a minor in **Data Science** and selected for the **NUS AI Young Fellowship Programme 2026**.
 
-`Python` `Java` `C` `C++` `JavaScript` `TypeScript` `SQL`
+I build applied AI/ML systems that make technical problems more understandable, measurable, and useful. My work spans trustworthy AI, explainability, computer vision, LLM evaluation, and enterprise software.
 
-### AI and Data Science
+- 🧠 Exploring **mechanistic interpretability** and **hallucination detection**
+- 🔍 Building explainable, evaluation-driven AI systems
+- 👁️ Developing OCR-grounded and multimodal vision applications
+- ⚙️ Experienced with backend and enterprise applications using **SAP BTP** and **CAP**
+- 🌱 Open to internships and early-career roles in AI/ML, data science, and software engineering
 
-`PyTorch` `scikit-learn` `XGBoost` `LightGBM` `Pandas` `NumPy`  
+    </td>
+    <td width="35%" align="center">
+      <img src="<YOUR_PROFILE_IMAGE_URL>" width="230" alt="Sanya Wadhawan profile image" />
+    </td>
+  </tr>
+</table>
 
-`SHAP` `LIME` `OpenAI API` `Prompt Engineering` `Computer Vision` `NLP`  
+<br />
 
-`Agentic AI` `AI Agents` `Tool Calling` `RAG` `Multi-Agent Systems`
+## 🚀 Selected Work
 
-### Web and Backend
+| Project | What I built |
+| :-- | :-- |
+| [Mechanistic Hallucination Detection](https://github.com/sanya28wd/Mechanistic-Hallucination-Detection-in-Language-Models) | A research pipeline using representation analysis, attention signals, causal interventions, and activation patching to identify hallucinations in LLMs. |
+| [MiniVision UAE Road Scene Intelligence](https://github.com/sanya28wd/MiniVision-UAE-road-scene-Intelligence) | An OCR-grounded vision-language system for road-scene captioning, visual question answering, and safety-risk assessment. |
+| [Explainable Intrusion Detection](https://github.com/sanya28wd/Explainable-AI-Driven-Machine-Learning-Approaches-for-Intrusion-Detection-) | A CIC-IDS2017 ML pipeline with SHAP and LIME explanations for interpretable network-intrusion detection. |
+| [Road Accident Severity Prediction](https://github.com/sanya28wd/Road-Accident-Severity-Prediction) | An end-to-end crash-severity decision-support system with model comparison, explainability, hotspot analysis, and Streamlit. |
+| [Customer Loyalty Application](https://github.com/sanya28wd/Customer-Reward-Application) | A SAP CAP and Fiori Elements application for customer management, rewards, redemptions, and OData V4 services. |
+| [Incident Management Application](https://github.com/sanya28wd/Incident-Management-Application) | A cloud-native SAP CAP workflow for incident tracking, prioritisation, conversation history, and status management. |
 
-`React` `Next.js` `Node.js` `FastAPI` `REST APIs` `Pydantic`
+<br />
 
-### Enterprise and Cloud
+## 🛠️ Tech Stack
 
-`SAP BTP` `SAP CAP` `SAP Fiori Elements` `OData` `Cloud Foundry`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,nodejs,fastapi,sqlite,postgres,docker,git,github,vscode,postman,linux&perline=9" alt="Languages and development tools" />
+</p>
 
-### Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,aws,azure,vercel,figma&perline=8" alt="AI, cloud, and design tools" />
+</p>
 
-`Git` `GitHub` `Docker` `Postman` `VS Code` `Jupyter Notebook` `Pytest`
+<p align="center">
+  <sub>Python · Java · C/C++ · JavaScript · TypeScript · PyTorch · scikit-learn · XGBoost · LightGBM · FastAPI · SAP BTP · SAP CAP · Fiori Elements · Docker</sub>
+</p>
 
-## 📈 What I bring
+<br />
 
-- Experience building AI-powered and agentic workflows
+## 📊 GitHub Analytics
 
-- Strong foundation in machine learning and software development
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanya28wd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&rank_icon=github" height="175" alt="Sanya's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanya28wd&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=F8BBD0" height="175" alt="Most used languages" />
+</p>
 
-- Ability to translate research ideas into working technical systems
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanya28wd&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=EF93C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0" alt="GitHub contribution streak" />
+</p>
 
-- Experience with prompt engineering, tool integration and structured AI pipelines
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanya28wd&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&area_color=EF93C4&hide_border=true" width="95%" alt="GitHub contribution graph" />
+</p>
 
-- Experience building explainable and safety-aware AI systems
+<br />
 
-- Clear technical documentation, testing and cross-team collaboration
+## 🐍 Contribution Snake
+
+<!--
+Add a GitHub Actions workflow at .github/workflows/snake.yml using Platane/snk.
+Generate the dark SVG at:
+dist/github-contribution-grid-snake-dark.svg
+-->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanya28wd/sanya28wd/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanya28wd/sanya28wd/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sanya28wd/sanya28wd/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<br />
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanya-wadhawan-63b758318/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="<YOUR_X_URL>">
+    <img src="https://img.shields.io/badge/X-FF69B4?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="<YOUR_INSTAGRAM_URL>">
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="<YOUR_TIKTOK_URL>">
+    <img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="<YOUR_YOUTUBE_URL>">
+    <img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:f20230296@dubai.bits-pilani.ac.in">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <i>Building intelligent systems that are explainable, reliable, and useful.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=120&section=footer" width="100%" alt="Pink waving footer" />
+</p>
