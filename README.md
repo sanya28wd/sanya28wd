@@ -58,19 +58,38 @@ I build applied AI/ML systems that make technical problems more understandable, 
 
 <br />
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,nodejs,fastapi,sqlite,postgres,docker,git,github,vscode,postman,linux&perline=9" alt="Languages and development tools" />
+  <sub>Tools I use to take an idea from research and experimentation to production-ready software.</sub>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,aws,azure,vercel,figma&perline=8" alt="AI, cloud, and design tools" />
-</p>
-
-<p align="center">
-  <sub>Python · Java · C/C++ · JavaScript · TypeScript · PyTorch · scikit-learn · XGBoost · LightGBM · FastAPI · SAP BTP · SAP CAP · Fiori Elements · Docker</sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <b>AI & Machine Learning</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow, OpenCV, and scikit-learn" /><br /><br />
+      <sub>PyTorch · scikit-learn · XGBoost · LightGBM · SHAP · LIME</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Languages</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,sql&theme=dark" alt="Python, Java, C, C++, JavaScript, TypeScript, and SQL" /><br /><br />
+      <sub>Python · Java · C/C++ · JavaScript · TypeScript · SQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <b>Backend & Enterprise</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,sqlite&theme=dark" alt="Node.js, FastAPI, PostgreSQL, and SQLite" /><br /><br />
+      <sub>REST APIs · SAP BTP · SAP CAP · Fiori Elements · OData V4</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>Developer Workflow</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark" alt="Git, GitHub, Docker, Postman, VS Code, and Linux" /><br /><br />
+      <sub>Git · Docker · Postman · Jupyter · Gradio · Streamlit</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
