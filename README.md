@@ -96,8 +96,8 @@ I build applied AI/ML systems that make technical problems more understandable, 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanya28wd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&rank_icon=github" height="175" alt="Sanya's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanya28wd&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=F8BBD0" height="175" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanya28wd&theme=dracula" alt="Sanya's GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanya28wd&theme=dracula" alt="Most used languages" />
 </p>
 
 <p align="center">
