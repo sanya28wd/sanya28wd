@@ -37,7 +37,7 @@ jobs:
       - name: Generate contribution space shooter
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh-space-shooter "${{ github.repository_owner }}" --output assets/space-shooter.gif --strategy random --fps 30
+        run: gh-space-shooter "${{ github.repository_owner }}" --output assets/space-shooter.gif --strategy random --fps 24 --max-frame 180
 
       - name: Apply the pink profile palette
         run: python .github/scripts/tint_space_shooter.py assets/space-shooter.gif
