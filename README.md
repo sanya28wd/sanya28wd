@@ -38,7 +38,7 @@ I build applied AI/ML systems that make technical problems more understandable, 
 
     </td>
     <td width="35%" align="center">
-      <img src="<YOUR_PROFILE_IMAGE_URL>" width="230" alt="Sanya Wadhawan profile image" />
+      <img src="./assets/sanya-profile.jpg" width="210" alt="Sanya Wadhawan profile photo" />
     </td>
   </tr>
 </table>
@@ -111,12 +111,6 @@ I build applied AI/ML systems that make technical problems more understandable, 
 <br />
 
 ## 🐍 Contribution Snake
-
-<!--
-Add a GitHub Actions workflow at .github/workflows/snake.yml using Platane/snk.
-Generate the dark SVG at:
-dist/github-contribution-grid-snake-dark.svg
--->
 
 <p align="center">
   <picture>
