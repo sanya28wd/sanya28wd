@@ -3,42 +3,23 @@ from __future__ import annotations
 from pathlib import Path
 from sys import argv
 
-from PIL import Image, ImageSequence
-
-
-def interpolate_channel(start: int, end: int, amount: float) -> int:
-    return round(start + (end - start) * amount)
-
-
-def pink_tint(red: int, green: int, blue: int, alpha: int) -> tuple[int, int, int, int]:
-    luminance = (0.2126 * red + 0.7152 * green + 0.0722 * blue) / 255
-    shadow = (13, 17, 23)
-    highlight = (255, 105, 180)
-    glow = (248, 187, 208)
-
-    if luminance < 0.1:
-        return shadow[0], shadow[1], shadow[2], alpha
-
-    blend = min(1, luminance * 1.45)
-    base = tuple(
-        interpolate_channel(shadow[index], highlight[index], blend)
-        for index in range(3)
-    )
-    glow_blend = max(0, (luminance - 0.65) / 0.35)
-    return (
-        interpolate_channel(base[0], glow[0], glow_blend),
-        interpolate_channel(base[1], glow[1], glow_blend),
-        interpolate_channel(base[2], glow[2], glow_blend),
-        alpha,
-    )
+from PIL import Image, ImageOps, ImageSequence
 
 
 def tint_frame(frame: Image.Image) -> Image.Image:
     rgba_frame = frame.convert("RGBA")
-    tinted_pixels = [pink_tint(*pixel) for pixel in rgba_frame.getdata()]
-    tinted_frame = Image.new("RGBA", rgba_frame.size)
-    tinted_frame.putdata(tinted_pixels)
-    return tinted_frame.convert("P", palette=Image.Palette.ADAPTIVE, colors=128)
+    grayscale_frame = ImageOps.grayscale(rgba_frame)
+    pink_frame = ImageOps.colorize(
+        grayscale_frame,
+        black="#0D1117",
+        white="#F8BBD0",
+        mid="#FF69B4",
+        blackpoint=0,
+        midpoint=150,
+        whitepoint=255,
+    )
+    pink_frame.putalpha(rgba_frame.getchannel("A"))
+    return pink_frame.convert("P", palette=Image.Palette.ADAPTIVE, colors=128)
 
 
 def tint_animation(source_path: Path) -> None:
