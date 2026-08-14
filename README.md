@@ -110,7 +110,7 @@ I build applied AI/ML systems that make technical problems more understandable, 
 
 <br />
 
-## 🚀 Contribution Space Shooter
+## 💗 Pink Contribution Space Shooter
 
 <p align="center">
   <img src="./assets/space-shooter.gif" alt="GitHub contribution space shooter" width="100%" />
