@@ -110,14 +110,10 @@ I build applied AI/ML systems that make technical problems more understandable, 
 
 <br />
 
-## 🐍 Contribution Snake
+## 🚀 Contribution Space Shooter
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanya28wd/sanya28wd/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanya28wd/sanya28wd/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sanya28wd/sanya28wd/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="./assets/space-shooter.gif" alt="GitHub contribution space shooter" width="100%" />
 </p>
 
 <br />
