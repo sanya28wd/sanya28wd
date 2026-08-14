@@ -128,17 +128,8 @@ I build applied AI/ML systems that make technical problems more understandable, 
   <a href="https://www.linkedin.com/in/sanya-wadhawan-63b758318/">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="<YOUR_X_URL>">
-    <img src="https://img.shields.io/badge/X-FF69B4?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
   <a href="<YOUR_INSTAGRAM_URL>">
     <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="<YOUR_TIKTOK_URL>">
-    <img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="<YOUR_YOUTUBE_URL>">
-    <img src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:f20230296@dubai.bits-pilani.ac.in">
     <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
