@@ -94,24 +94,28 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
 
 <br />
 
-## 🤝 Let's Connect
+## 💗 Connect & Collaborate
+
+<p align="center">
+  <b>Open to AI/ML engineering opportunities, meaningful collaborations, and conversations about useful AI products.</b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanya-wadhawan-63b758318/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="<YOUR_INSTAGRAM_URL>">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:f20230296@dubai.bits-pilani.ac.in">
-    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email%20Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+  <a href="mailto:f20230296@dubai.bits-pilani.ac.in?subject=Collaboration%20opportunity">
+    <img src="https://img.shields.io/badge/Collaborate-FF69B4?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
   </a>
 </p>
 
 <br />
 
 <p align="center">
-  <i>Building intelligent systems that are explainable, reliable, and useful.</i>
+  <i>Let’s build intelligent systems that are explainable, reliable, and useful.</i>
 </p>
 
 <p align="center">
