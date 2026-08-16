@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.bits-pilani.ac.in/dubai/"><img src="https://img.shields.io/badge/BITS%20Pilani-Dubai%20Campus-C084FC?style=flat-square&labelColor=23112F" alt="BITS Pilani, Dubai Campus" /></a>
-  <img src="https://img.shields.io/badge/NUS%20AI%20Young%20Fellow-2026-F472B6?style=flat-square&labelColor=23112F" alt="NUS AI Young Fellowship Programme 2026" />
-  <img src="https://img.shields.io/badge/Focus-Trustworthy%20AI-A855F7?style=flat-square&labelColor=23112F" alt="Focus: Trustworthy AI" />
+  <a href="https://www.bits-pilani.ac.in/dubai/"><img src="https://img.shields.io/badge/BITS%20Pilani-Dubai%20Campus-FF5CAA?style=flat-square&labelColor=2A0E1D" alt="BITS Pilani, Dubai Campus" /></a>
+  <img src="https://img.shields.io/badge/NUS%20AI%20Young%20Fellow-2026-FF6FAE?style=flat-square&labelColor=2A0E1D" alt="NUS AI Young Fellowship Programme 2026" />
+  <img src="https://img.shields.io/badge/Focus-Trustworthy%20AI-FF4FA3?style=flat-square&labelColor=2A0E1D" alt="Focus: Trustworthy AI" />
 </p>
 
 <h2 align="center">Building AI systems that are explainable, measurable, and useful.</h2>
@@ -14,7 +14,7 @@
   Computer Science undergraduate at <b>BITS Pilani, Dubai Campus</b> · Data Science minor · Selected for the <b>NUS AI Young Fellowship Programme 2026</b>
 </p>
 
-I build applied AI/ML systems that make technical problems more understandable, measurable, and useful. My work spans trustworthy AI, explainability, LLM evaluation, computer vision, and enterprise software built with SAP BTP and CAP.
+I build applied AI/ML systems that make technical problems more understandable, measurable, and useful. My work spans agentic AI, trustworthy AI, explainability, LLM evaluation, computer vision, and enterprise software built with SAP BTP and CAP.
 
 Across my projects and internship experience, I keep returning to three questions:
 
@@ -26,21 +26,38 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
 
 <br />
 
-| Project | Why it matters |
-|---|---|
-| [Mechanistic Hallucination Detection](...) | Investigates whether hallucinations leave detectable signals inside language models, rather than checking only the final answer. |
-| [MiniVision UAE Road Scene Intelligence](...) | Grounds vision-language systems in OCR, route signs, hazards, and local road-scene context. |
-| [Explainable Intrusion Detection](...) | Combines network-threat prediction with SHAP and LIME so analysts can understand why traffic was flagged. |
-| [Road Accident Severity Prediction](...) | Turns crash data into an explainable decision-support workflow with severity prediction and hotspot analysis. |
-| [Customer Loyalty Application](...) | Converts real business rules into a working SAP CAP and Fiori enterprise workflow. |
-| [Incident Management Application](...) | Models incident priority, status, conversations, and resolution as a cloud-native B2B system. |
+## 💗 Selected Projects
+
+[![Mechanistic Hallucination Detection](https://img.shields.io/badge/Mechanistic%20Hallucination%20Detection-FF5CAA?style=flat-square&labelColor=2A0E1D)](...)
+
+Investigates whether hallucinations leave detectable signals inside language models, rather than checking only the final answer.
+
+[![MiniVision UAE Road Scene Intelligence](https://img.shields.io/badge/MiniVision%20UAE%20Road%20Scene%20Intelligence-FF5CAA?style=flat-square&labelColor=2A0E1D)](...)
+
+Grounds vision-language systems in OCR, route signs, hazards, and local road-scene context.
+
+[![Explainable Intrusion Detection](https://img.shields.io/badge/Explainable%20Intrusion%20Detection-FF5CAA?style=flat-square&labelColor=2A0E1D)](...)
+
+Combines network-threat prediction with SHAP and LIME so analysts can understand why traffic was flagged.
+
+[![Road Accident Severity Prediction](https://img.shields.io/badge/Road%20Accident%20Severity%20Prediction-FF5CAA?style=flat-square&labelColor=2A0E1D)](...)
+
+Turns crash data into an explainable decision-support workflow with severity prediction and hotspot analysis.
+
+[![Customer Loyalty Application](https://img.shields.io/badge/Customer%20Loyalty%20Application-FF5CAA?style=flat-square&labelColor=2A0E1D)](...)
+
+Converts real business rules into a working SAP CAP and Fiori enterprise workflow.
+
+[![Incident Management Application](https://img.shields.io/badge/Incident%20Management%20Application-FF5CAA?style=flat-square&labelColor=2A0E1D)](...)
+
+Models incident priority, status, conversations, and resolution as a cloud-native B2B system.
 
 <br />
 
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <sub>Tools I use to move from research and experimentation to usable prototypes and applications.</sub>
+  <sub>Selected tools for taking AI ideas from data and experimentation to deployable products.</sub>
 </p>
 
 <table align="center">
@@ -48,7 +65,7 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
     <td align="center" width="25%">
       <b>AI & Machine Learning</b><br /><br />
       <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="Python, PyTorch, TensorFlow, OpenCV, and scikit-learn" /><br /><br />
-      <sub>PyTorch · scikit-learn · XGBoost · LightGBM · SHAP · LIME</sub>
+      <sub>Agentic AI · PyTorch · scikit-learn · XGBoost · SHAP · LIME</sub>
     </td>
     <td align="center" width="25%">
       <b>Languages</b><br /><br />
@@ -98,17 +115,21 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
 
 <br />
 
-## 🤝 Let's Connect
+## 💗 Connect & Collaborate
+
+<p align="center">
+  <sub>Open to AI/ML opportunities, thoughtful collaborations, and conversations about building useful AI products.</sub>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanya-wadhawan-63b758318/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="<YOUR_INSTAGRAM_URL>">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-FF5CAA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:f20230296@dubai.bits-pilani.ac.in">
-    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email%20Me-FF5CAA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+  <a href="mailto:f20230296@dubai.bits-pilani.ac.in?subject=Collaboration%20opportunity">
+    <img src="https://img.shields.io/badge/Collaborate-FF5CAA?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
   </a>
 </p>
 
