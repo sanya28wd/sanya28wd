@@ -26,12 +26,12 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
 
 | Project | Why it matters |
 |---|---|
-| <a href="..."><img src="https://img.shields.io/badge/Mechanistic%20Hallucination%20Detection-FF69B4?style=flat-square" alt="Mechanistic Hallucination Detection" /></a> | Investigates whether hallucinations leave detectable signals inside language models, rather than checking only the final answer. |
-| <a href="..."><img src="https://img.shields.io/badge/MiniVision%20UAE%20Road%20Scene%20Intelligence-FF69B4?style=flat-square" alt="MiniVision UAE Road Scene Intelligence" /></a> | Grounds vision-language systems in OCR, route signs, hazards, and local road-scene context. |
-| <a href="..."><img src="https://img.shields.io/badge/Explainable%20Intrusion%20Detection-FF69B4?style=flat-square" alt="Explainable Intrusion Detection" /></a> | Combines network-threat prediction with SHAP and LIME so analysts can understand why traffic was flagged. |
-| <a href="..."><img src="https://img.shields.io/badge/Road%20Accident%20Severity%20Prediction-FF69B4?style=flat-square" alt="Road Accident Severity Prediction" /></a> | Turns crash data into an explainable decision-support workflow with severity prediction and hotspot analysis. |
-| <a href="..."><img src="https://img.shields.io/badge/Customer%20Loyalty%20Application-FF69B4?style=flat-square" alt="Customer Loyalty Application" /></a> | Converts real business rules into a working SAP CAP and Fiori enterprise workflow. |
-| <a href="..."><img src="https://img.shields.io/badge/Incident%20Management%20Application-FF69B4?style=flat-square" alt="Incident Management Application" /></a> | Models incident priority, status, conversations, and resolution as a cloud-native B2B system. |
+| <a href="..."><img src="./assets/project-mechanistic-hallucination.svg" alt="Mechanistic Hallucination Detection" /></a> | Investigates whether hallucinations leave detectable signals inside language models, rather than checking only the final answer. |
+| <a href="..."><img src="./assets/project-minivision.svg" alt="MiniVision UAE Road Scene Intelligence" /></a> | Grounds vision-language systems in OCR, route signs, hazards, and local road-scene context. |
+| <a href="..."><img src="./assets/project-intrusion-detection.svg" alt="Explainable Intrusion Detection" /></a> | Combines network-threat prediction with SHAP and LIME so analysts can understand why traffic was flagged. |
+| <a href="..."><img src="./assets/project-road-accident.svg" alt="Road Accident Severity Prediction" /></a> | Turns crash data into an explainable decision-support workflow with severity prediction and hotspot analysis. |
+| <a href="..."><img src="./assets/project-customer-loyalty.svg" alt="Customer Loyalty Application" /></a> | Converts real business rules into a working SAP CAP and Fiori enterprise workflow. |
+| <a href="..."><img src="./assets/project-incident-management.svg" alt="Incident Management Application" /></a> | Models incident priority, status, conversations, and resolution as a cloud-native B2B system. |
 
 <br />
 
