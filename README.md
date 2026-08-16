@@ -1,10 +1,18 @@
 <p align="center">
-  <img src="./assets/sanya-banner.svg" alt="Sanya Wadhawan — Applied AI/ML Engineer" width="100%" />
+  <img src="./assets/sanya-banner-animated.svg" alt="Sanya Wadhawan — Applied AI/ML Engineer" width="100%" />
 </p>
 
-## About
+<p align="center">
+  <a href="https://www.bits-pilani.ac.in/dubai/"><img src="https://img.shields.io/badge/BITS%20Pilani-Dubai%20Campus-C084FC?style=flat-square&labelColor=23112F" alt="BITS Pilani, Dubai Campus" /></a>
+  <img src="https://img.shields.io/badge/NUS%20AI%20Young%20Fellow-2026-F472B6?style=flat-square&labelColor=23112F" alt="NUS AI Young Fellowship Programme 2026" />
+  <img src="https://img.shields.io/badge/Focus-Trustworthy%20AI-A855F7?style=flat-square&labelColor=23112F" alt="Focus: Trustworthy AI" />
+</p>
 
-I’m a Computer Science undergraduate at BITS Pilani, Dubai Campus, pursuing a minor in Data Science and selected as one of the 109 participants from 70+ universities among 26 nationalities globally for the NUS AI Young Fellowship Programme 2026.
+<h2 align="center">Building AI systems that are explainable, measurable, and useful.</h2>
+
+<p align="center">
+  Computer Science undergraduate at <b>BITS Pilani, Dubai Campus</b> · Data Science minor · Selected for the <b>NUS AI Young Fellowship Programme 2026</b>
+</p>
 
 I build applied AI/ML systems that make technical problems more understandable, measurable, and useful. My work spans trustworthy AI, explainability, LLM evaluation, computer vision, and enterprise software built with SAP BTP and CAP.
 
@@ -15,8 +23,6 @@ Across my projects and internship experience, I keep returning to three question
 - Can someone actually use what we build?
 
 I’m currently exploring mechanistic interpretability, hallucination detection, OCR-grounded vision systems, and evaluation-driven AI applications.
-
-
 
 <br />
 
