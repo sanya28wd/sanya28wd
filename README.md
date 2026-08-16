@@ -22,7 +22,7 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
 
 <br />
 
-## 💗 Selected Projects
+## 💗 Featured Work
 
 | Project | Why it matters |
 |---|---|
