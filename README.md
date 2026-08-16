@@ -64,13 +64,6 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
   </tr>
 </table>
 
-*The current skills graphic is visually attractive, but important information appears inside images. Recruiters, GitHub search, and accessibility tools may not read it properly. Plain text follows for searchability and accessibility.*
-
-**AI/ML:** PyTorch, scikit-learn, XGBoost, LightGBM, SHAP, LIME  
-**Languages:** Python, Java, C/C++, JavaScript, TypeScript, SQL  
-**AI Systems:** LLM evaluation, tool calling, structured outputs, agentic workflows, NLP, computer vision  
-**Backend and Enterprise:** Node.js, SAP BTP, SAP CAP, Fiori Elements, OData V4  
-**Tools:** Git, Docker, Postman, Jupyter, Gradio, Streamlit
 
 <br />
 
