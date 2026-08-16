@@ -1,67 +1,40 @@
 <p align="center">
-  <img src="./assets/sanya-banner.png" alt="Hi, I'm Sanya Wadhawan — Aspiring AI Engineer" width="100%" />
+  <img src="./assets/sanya-banner.svg" alt="Sanya Wadhawan — Applied AI/ML Engineer" width="100%" />
 </p>
 
-<h1 align="center">Hey there, I'm Sanya Wadhawan 👋</h1>
+## About
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate+at+BITS+Pilani%2C+Dubai;Applied+AI+%26+Machine+Learning+Builder;Building+trustworthy+and+useful+AI+systems" alt="Typing SVG" />
-</p>
+I’m a Computer Science undergraduate at BITS Pilani, Dubai Campus, pursuing a minor in Data Science and selected for the NUS AI Young Fellowship Programme 2026.
 
-<p align="center">
-  <a href="https://github.com/sanya28wd?tab=followers">
-    <img src="https://img.shields.io/github/followers/sanya28wd?label=Followers&style=for-the-badge&color=FF69B4&labelColor=17111A" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/sanya28wd?tab=repositories">
-    <img src="https://img.shields.io/github/stars/sanya28wd?style=for-the-badge&color=EF93C4&labelColor=17111A" alt="GitHub stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sanya28wd&style=for-the-badge&color=F8BBD0&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+I build applied AI/ML systems that make technical problems more understandable, measurable, and useful. My work spans trustworthy AI, explainability, LLM evaluation, computer vision, and enterprise software built with SAP BTP and CAP.
+
+Across my projects and internship experience, I keep returning to three questions:
+
+- Can we trust the system?
+- Can we explain its decisions?
+- Can someone actually use what we build?
+
+I’m currently exploring mechanistic interpretability, hallucination detection, OCR-grounded vision systems, and evaluation-driven AI applications.
+
+
 
 <br />
 
-## ✨ About Me
-
-<table>
-  <tr>
-    <td width="65%" valign="top">
-
-I'm a Computer Science undergraduate at **BITS Pilani, Dubai Campus**, pursuing a minor in **Data Science** and selected for the **NUS AI Young Fellowship Programme 2026**.
-
-I build applied AI/ML systems that make technical problems more understandable, measurable, and useful. My work spans trustworthy AI, explainability, computer vision, LLM evaluation, and enterprise software.
-
-- 🧠 Exploring **mechanistic interpretability** and **hallucination detection**
-- 🔍 Building explainable, evaluation-driven AI systems
-- 👁️ Developing OCR-grounded and multimodal vision applications
-- ⚙️ Experienced with backend and enterprise applications using **SAP BTP** and **CAP**
-- 🌱 Open to internships and early-career roles in AI/ML, data science, and software engineering
-
-    </td>
-    <td width="35%" align="center">
-      <img src="./assets/sanya-profile.jpg" width="210" alt="Sanya Wadhawan profile photo" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## 🚀 Selected Work
-
-| Project | What I built |
-| :-- | :-- |
-| [Mechanistic Hallucination Detection](https://github.com/sanya28wd/Mechanistic-Hallucination-Detection-in-Language-Models) | A research pipeline using representation analysis, attention signals, causal interventions, and activation patching to identify hallucinations in LLMs. |
-| [MiniVision UAE Road Scene Intelligence](https://github.com/sanya28wd/MiniVision-UAE-road-scene-Intelligence) | An OCR-grounded vision-language system for road-scene captioning, visual question answering, and safety-risk assessment. |
-| [Explainable Intrusion Detection](https://github.com/sanya28wd/Explainable-AI-Driven-Machine-Learning-Approaches-for-Intrusion-Detection-) | A CIC-IDS2017 ML pipeline with SHAP and LIME explanations for interpretable network-intrusion detection. |
-| [Road Accident Severity Prediction](https://github.com/sanya28wd/Road-Accident-Severity-Prediction) | An end-to-end crash-severity decision-support system with model comparison, explainability, hotspot analysis, and Streamlit. |
-| [Customer Loyalty Application](https://github.com/sanya28wd/Customer-Reward-Application) | A SAP CAP and Fiori Elements application for customer management, rewards, redemptions, and OData V4 services. |
-| [Incident Management Application](https://github.com/sanya28wd/Incident-Management-Application) | A cloud-native SAP CAP workflow for incident tracking, prioritisation, conversation history, and status management. |
+| Project | Why it matters |
+|---|---|
+| [Mechanistic Hallucination Detection](...) | Investigates whether hallucinations leave detectable signals inside language models, rather than checking only the final answer. |
+| [MiniVision UAE Road Scene Intelligence](...) | Grounds vision-language systems in OCR, route signs, hazards, and local road-scene context. |
+| [Explainable Intrusion Detection](...) | Combines network-threat prediction with SHAP and LIME so analysts can understand why traffic was flagged. |
+| [Road Accident Severity Prediction](...) | Turns crash data into an explainable decision-support workflow with severity prediction and hotspot analysis. |
+| [Customer Loyalty Application](...) | Converts real business rules into a working SAP CAP and Fiori enterprise workflow. |
+| [Incident Management Application](...) | Models incident priority, status, conversations, and resolution as a cloud-native B2B system. |
 
 <br />
 
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <sub>Tools I use to take an idea from research and experimentation to production-ready software.</sub>
+  <sub>Tools I use to move from research and experimentation to usable prototypes and applications.</sub>
 </p>
 
 <table align="center">
@@ -90,6 +63,14 @@ I build applied AI/ML systems that make technical problems more understandable, 
     </td>
   </tr>
 </table>
+
+*The current skills graphic is visually attractive, but important information appears inside images. Recruiters, GitHub search, and accessibility tools may not read it properly. Plain text follows for searchability and accessibility.*
+
+**AI/ML:** PyTorch, scikit-learn, XGBoost, LightGBM, SHAP, LIME  
+**Languages:** Python, Java, C/C++, JavaScript, TypeScript, SQL  
+**AI Systems:** LLM evaluation, tool calling, structured outputs, agentic workflows, NLP, computer vision  
+**Backend and Enterprise:** Node.js, SAP BTP, SAP CAP, Fiori Elements, OData V4  
+**Tools:** Git, Docker, Postman, Jupyter, Gradio, Streamlit
 
 <br />
 

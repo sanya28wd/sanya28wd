@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#F8BBD0"/>
+      <stop offset="50%" stop-color="#EF93C4"/>
+      <stop offset="100%" stop-color="#FF69B4"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#0D1117" />
+  <rect width="100%" height="100%" fill="url(#g)" opacity="0.08" />
+
+  <g font-family="'Inter', system-ui, -apple-system, Roboto, 'Helvetica Neue', Arial" fill="#ffffff">
+    <text x="50%" y="36%" font-size="36" font-weight="700" text-anchor="middle">Sanya Wadhawan</text>
+    <text x="50%" y="56%" font-size="22" font-weight="500" text-anchor="middle">Applied AI/ML Engineer</text>
+    <text x="50%" y="74%" font-size="16" font-weight="400" text-anchor="middle">Explainability • LLM Evaluation • Computer Vision • SAP BTP</text>
+  </g>
+
+  <title>Sanya Wadhawan — Applied AI/ML Engineer</title>
+  <desc>Banner: Sanya Wadhawan — Applied AI/ML Engineer. Skills: Explainability; LLM Evaluation; Computer Vision; SAP BTP.</desc>
+</svg>
