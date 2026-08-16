@@ -4,7 +4,7 @@
 
 ## About
 
-I’m a Computer Science undergraduate at BITS Pilani, Dubai Campus, pursuing a minor in Data Science and selected for the NUS AI Young Fellowship Programme 2026.
+I’m a Computer Science undergraduate at BITS Pilani, Dubai Campus, pursuing a minor in Data Science and selected as one of the 109 participants from 70+ universities among 26 nationalities globally for the NUS AI Young Fellowship Programme 2026.
 
 I build applied AI/ML systems that make technical problems more understandable, measurable, and useful. My work spans trustworthy AI, explainability, LLM evaluation, computer vision, and enterprise software built with SAP BTP and CAP.
 
