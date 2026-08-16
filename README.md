@@ -37,9 +37,7 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
 
 ## 🛠️ Skills & Tools
 
-<p align="center">
-  <sub>Tools I use to move from research and experimentation to usable prototypes and applications.</sub>
-</p>
+<h3 align="center">From AI experimentation to deployable, real-world products.</h3>
 
 <table align="center">
   <tr>
