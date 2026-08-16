@@ -22,22 +22,22 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
 
 <br />
 
+## 💗 Featured Work
+
 | Project | Why it matters |
 |---|---|
-| [Mechanistic Hallucination Detection](...) | Investigates whether hallucinations leave detectable signals inside language models, rather than checking only the final answer. |
-| [MiniVision UAE Road Scene Intelligence](...) | Grounds vision-language systems in OCR, route signs, hazards, and local road-scene context. |
-| [Explainable Intrusion Detection](...) | Combines network-threat prediction with SHAP and LIME so analysts can understand why traffic was flagged. |
-| [Road Accident Severity Prediction](...) | Turns crash data into an explainable decision-support workflow with severity prediction and hotspot analysis. |
-| [Customer Loyalty Application](...) | Converts real business rules into a working SAP CAP and Fiori enterprise workflow. |
-| [Incident Management Application](...) | Models incident priority, status, conversations, and resolution as a cloud-native B2B system. |
+| <a href="..."><img src="https://img.shields.io/badge/Mechanistic%20Hallucination%20Detection-FF69B4?style=flat-square" alt="Mechanistic Hallucination Detection" /></a> | Investigates whether hallucinations leave detectable signals inside language models, rather than checking only the final answer. |
+| <a href="..."><img src="https://img.shields.io/badge/MiniVision%20UAE%20Road%20Scene%20Intelligence-FF69B4?style=flat-square" alt="MiniVision UAE Road Scene Intelligence" /></a> | Grounds vision-language systems in OCR, route signs, hazards, and local road-scene context. |
+| <a href="..."><img src="https://img.shields.io/badge/Explainable%20Intrusion%20Detection-FF69B4?style=flat-square" alt="Explainable Intrusion Detection" /></a> | Combines network-threat prediction with SHAP and LIME so analysts can understand why traffic was flagged. |
+| <a href="..."><img src="https://img.shields.io/badge/Road%20Accident%20Severity%20Prediction-FF69B4?style=flat-square" alt="Road Accident Severity Prediction" /></a> | Turns crash data into an explainable decision-support workflow with severity prediction and hotspot analysis. |
+| <a href="..."><img src="https://img.shields.io/badge/Customer%20Loyalty%20Application-FF69B4?style=flat-square" alt="Customer Loyalty Application" /></a> | Converts real business rules into a working SAP CAP and Fiori enterprise workflow. |
+| <a href="..."><img src="https://img.shields.io/badge/Incident%20Management%20Application-FF69B4?style=flat-square" alt="Incident Management Application" /></a> | Models incident priority, status, conversations, and resolution as a cloud-native B2B system. |
 
 <br />
 
 ## 🛠️ Skills & Tools
 
-<p align="center">
-  <sub>Tools I use to move from research and experimentation to usable prototypes and applications.</sub>
-</p>
+<h3 align="center">From AI experimentation to deployable, real-world products.</h3>
 
 <table align="center">
   <tr>
@@ -94,24 +94,28 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
 
 <br />
 
-## 🤝 Let's Connect
+## 💗 Connect & Collaborate
+
+<p align="center">
+  <b>Open to AI/ML engineering opportunities, meaningful collaborations, and conversations about useful AI products.</b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanya-wadhawan-63b758318/">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="<YOUR_INSTAGRAM_URL>">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:f20230296@dubai.bits-pilani.ac.in">
-    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email%20Me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+  <a href="mailto:f20230296@dubai.bits-pilani.ac.in?subject=Collaboration%20opportunity">
+    <img src="https://img.shields.io/badge/Collaborate-FF69B4?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
   </a>
 </p>
 
 <br />
 
 <p align="center">
-  <i>Building intelligent systems that are explainable, reliable, and useful.</i>
+  <i>Let’s build intelligent systems that are explainable, reliable, and useful.</i>
 </p>
 
 <p align="center">
