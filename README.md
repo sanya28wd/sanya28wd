@@ -22,7 +22,7 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
 
 <br />
 
-## 💗 Featured Work
+## Featured Work
 
 | Project | Why it matters |
 |---|---|
@@ -35,7 +35,7 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
 
 <br />
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <h3 align="center">From AI experimentation to deployable, real-world products.</h3>
 
@@ -86,7 +86,7 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
 
 <br />
 
-## 💗 Pink Contribution Space Shooter
+## Contribution Space Shooter
 
 <p align="center">
   <img src="./assets/space-shooter.gif" alt="GitHub contribution space shooter" width="100%" />
@@ -94,7 +94,7 @@ I’m currently exploring mechanistic interpretability, hallucination detection,
 
 <br />
 
-## 💗 Connect & Collaborate
+## Connect & Collaborate
 
 <p align="center">
   <b>Open to AI/ML engineering opportunities, meaningful collaborations, and conversations about useful AI products.</b>
