@@ -20,6 +20,10 @@ Across my projects and internship experience, I keep returning to three question
 
 I’m currently exploring mechanistic interpretability, hallucination detection, OCR-grounded vision systems, and evaluation-driven AI applications.
 
+## Art, Code & Creative Experiments
+
+Art is one of my hobbies, so I built [ArtsySanya](https://sanya28wd.github.io/ArtsySanya/) as a home for my work. It’s also a fun way for me to connect that creative side with computer science: I use the site to explore web development, 3D, shaders, and motion while making the gallery feel more alive.
+
 <br />
 
 ## Featured Work
